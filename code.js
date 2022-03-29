@@ -1,3 +1,4 @@
+javascript:
 var opensourcewin = window.open('about:blank');
 var sourceWin = opensourcewin.document;
 sourceWin.write('
